@@ -1,5 +1,5 @@
 # Use official slim Python image
-FROM python:3.12-slim
+FROM python:3.12-alpine
 
 # Set environment
 ENV PYTHONDONTWRITEBYTECODE=1 \
