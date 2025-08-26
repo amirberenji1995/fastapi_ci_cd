@@ -1,0 +1,1 @@
+Minor changes to the README.md to assure that CI workflow works well.
