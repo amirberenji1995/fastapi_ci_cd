@@ -5,4 +5,4 @@ app = FastAPI()
 
 @app.get("/")
 async def read_root():
-    return {"ok": True, "msg": "Hello from FastAPI template"}
+    return {"ok": True, "msg": "Hello from FastAPI template and it`s working!"}
