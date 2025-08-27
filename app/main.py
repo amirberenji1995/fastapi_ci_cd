@@ -5,4 +5,4 @@ app = FastAPI()
 
 @app.get("/")
 async def read_root():
-    return {"ok": True, "msg": "FastAPI CI/CD template is working!"}
+    return {"ok": True, "msg": "FastAPI CI/CD template is working very well!"}
